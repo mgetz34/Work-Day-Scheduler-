@@ -15,7 +15,7 @@ Deploy application via the URL below
 
 ## Usage
 
-[End of the Day Schedule](Assets/Images/Screenshot%202022-11-07%20172907.png)
+![App End of Day](Assets/Images/Screenshot%202022-11-07%20172907.png)
 
 ## Credits
 
