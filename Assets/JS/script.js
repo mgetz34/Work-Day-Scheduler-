@@ -31,8 +31,10 @@ $(document).ready(function () {
     currentTime.text(formatHead)
   };
 
-  setInterval(headIncrement, 1000)
-  setInterval(checkTime, 1000)
+
+  //decreased intervals to .1 S to speed page load, was 1000
+  setInterval(headIncrement, 100)
+  setInterval(checkTime, 100)
 
   function checkTime() {
     var timeChecker = dayjs()

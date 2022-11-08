@@ -2,12 +2,12 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+The motivation for the project was to build a appllication that interfaces with third party APIs, and provides a simple and convenient
+solution for the storage of daily notes and tasks with time brackets showing past, future, and present time slots.
+This project was built to solve a simple problem; being able to schedule daily tasks and see if they have hppened, or are upcoming.
+The application can be closed and reopened and the data will remain, maiking this a convenient application that can run in the background
+and be minimized or closed and reopened with ease.
+The prinicipals of jQuery commands, interfacing with third-party-APIs, and Bootstrap design were covered and familiarized in this exercise.
 
 ## Installation
 
@@ -15,26 +15,16 @@ Deploy application via the URL below
 
 ## Usage
 
-    [alt text](assets/images/screenshot.png)
+[End of the Day Schedule](Assets/Images/Screenshot%202022-11-07%20172907.png)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+Siddharth Desai; classmate. Provided guidance/tutoring.
 
 ## License
 
 Refer to the license in the repo
 
-## Features
-
-If your project has a lot of features, list them here.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
-
 ## Application URL
+
+[Work Day Scheduler Michael Getz]()
